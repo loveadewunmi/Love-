@@ -1,8 +1,13 @@
 body {
     background-color: lightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
 }
-h1 {
+h1{
     color:yellowgreen ;
-    text-align:middle;
+    text-align:left;
 }
-
+h2 {
+    color: yellowgreen;
+    text-align: left;
+}

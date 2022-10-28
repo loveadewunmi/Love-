@@ -1,0 +1,23 @@
+header{
+    background-color:red;
+    color: white;
+    text-align: center;
+}
+section {
+    background-color: yellow;
+    height: 250px;
+}
+footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+aside {
+    border-style: dashed;
+    width: 200px;
+    display: block(none);
+}
+article {
+    border-style: double;
+    width: 100px;
+}
